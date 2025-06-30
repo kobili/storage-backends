@@ -1,3 +1,3 @@
-module kobili/storage_backends
+module kobili/storage-backends
 
 go 1.23.3
