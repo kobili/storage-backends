@@ -1,4 +1,4 @@
-package storage_backends
+package backends
 
 import (
 	"bufio"
